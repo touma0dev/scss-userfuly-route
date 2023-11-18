@@ -12,6 +12,6 @@ Fazer uma rota para mim e para você ver que eu sei scss obrigado.
 [Scss:Keyboard 60%](https://github.com/touma0dev/keyboard-virtual-css-javascript/blob/main/lib/css/style.scss) ~
 
 # Link Numero 3 -CreateReactApp
-[Repo](https://github.com/touma0dev/React-post-it-/blob/main/src/css/App.scss) ~
-[Link](https://blocodenotasaqui.netlify.app/) ~
 [Repo](https://github.com/touma0dev/React-post-it-/) ~
+[Link](https://blocodenotasaqui.netlify.app/) ~
+[Scss : Post](https://github.com/touma0dev/React-post-it-/blob/main/src/css/App.scss) ~
