@@ -14,4 +14,4 @@ Fazer uma rota para mim e para te provar que eu sei scss obrigado. <br>
 # Link Numero 3 -CreateReactApp
 [Repo](https://github.com/touma0dev/React-post-it-/) ~
 [Link](https://blocodenotasaqui.netlify.app/) ~
-[Scss : Post](https://github.com/touma0dev/React-post-it-/blob/main/src/css/App.scss) ~
+[Scss : Post it](https://github.com/touma0dev/React-post-it-/blob/main/src/css/App.scss) ~
